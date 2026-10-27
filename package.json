@@ -1,0 +1,12 @@
+{
+  "name": "testetes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloudtype 배포 점검용 최소 Node 정적 서버",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
